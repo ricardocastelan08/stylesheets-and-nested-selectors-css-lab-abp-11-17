@@ -16,7 +16,7 @@ header nav {
 }
 
 header nav ul {
-  padding: 0;
+  padding: none;
   margin: 40px 0px 0px 0px;
 
 }
